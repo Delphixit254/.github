@@ -16,4 +16,3 @@ Delphixit Nova is an emerging technology startup specializing in high-performanc
 
 We build resilient, disciplined, and optimized software infrastructure (C++, HLSL, Vulkan) that drives maximum performance in enterprise environments.
 
-**Explore our open-source projects below or get started on our official site.**
